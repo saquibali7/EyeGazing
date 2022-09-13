@@ -1,6 +1,10 @@
 ## EyeGazing
-### Detection of line of sight of pupil using deep neural networks
+Detection of line of sight of pupil using deep neural networks
+<br/>
 
-### model architecture
+Result from the model :
+<img height="400em" width="500" src="assets/predict.png"/>
+<br/>
 
+model architecture : 
 <img height="600em" width="800" src="assets/model (1).png"/>
