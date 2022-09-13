@@ -3,7 +3,7 @@ Detection of line of sight of pupil using deep neural networks
 <br/>
 
 Result from the model :
-<img height="400em" width="500" src="assets/predict.png"/>
+<img height="600em" width="600" src="assets/predict.png"/>
 <br/>
 
 model architecture : 
