@@ -4,7 +4,7 @@
 
 #### Working of the model :
 
-<img height="600em" width="600" src="assets/gaze.png"/>
+<img height="600em" width="800" src="assets/gaze.png"/>
 
 #### Result from the model :
 
